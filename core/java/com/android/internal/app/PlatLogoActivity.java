@@ -90,7 +90,7 @@ public class PlatLogoActivity extends Activity {
         letter.setTextSize(mIsCM ? 150 : 300);
         letter.setTextColor(0xFFFFFFFF);
         letter.setGravity(Gravity.CENTER);
-        letter.setText(mIsCM ? "CM" : "K");
+        letter.setText(mIsCM ? "CF" : "K");
 
         String cmVersion = SystemProperties.get("ro.cm.version");
         if (cmVersion != null) {

@@ -39,7 +39,7 @@ public class DessertCase extends Activity {
         final ComponentName cn = new ComponentName(this, DessertCaseDream.class);
         if (pm.getComponentEnabledSetting(cn) != PackageManager.COMPONENT_ENABLED_STATE_ENABLED) {
             if (isCM) {
-                Slog.v("DessertCase", "CyanogenMod enabled!");
+                Slog.v("DessertCase", "CyanFox enabled!");
             } else {
                 Slog.v("DessertCase", "ACHIEVEMENT UNLOCKED");
             }
