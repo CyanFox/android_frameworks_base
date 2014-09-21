@@ -20,8 +20,8 @@
   <string name="accessibility_quick_settings_vibration">Vibrasjon <xliff:g id="state" example="av"> %s </xliff:g>.</string>
   <string name="accessibility_dpad_left">Markør til venstre</string>
   <string name="accessibility_dpad_right">Markør til høyre</string>
-  <string name="dessert_case_settings_cm_title">Vis CM maskoter</string>
-  <string name="dessert_case_settings_cm_summary">Vis CM maskoter sammen med Android er desserter i drømmen</string>
+  <string name="dessert_case_settings_cm_title">Vis CF maskoter</string>
+  <string name="dessert_case_settings_cm_summary">Vis CF maskoter sammen med Android er desserter i drømmen</string>
   <string name="quick_settings_profile_label">Profil</string>
   <string name="powerwidget_screen_timeout_toast">Skjermens tidsavbrudd er satt til: %1$d %2$s</string>
   <string name="quick_settings_gps">GPS</string>

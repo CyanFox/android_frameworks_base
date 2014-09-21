@@ -20,8 +20,8 @@
   <string name="accessibility_quick_settings_vibration">Vibrazione <xliff:g id="state" example="Off">%s</xliff:g>.</string>
   <string name="accessibility_dpad_left">Cursore a sinistra</string>
   <string name="accessibility_dpad_right">Cursore a destra</string>
-  <string name="dessert_case_settings_cm_title">Mostra mascotte CM</string>
-  <string name="dessert_case_settings_cm_summary">Mostra la mascotte CM insieme ai dolci di Android all\'interno del sogno</string>
+  <string name="dessert_case_settings_cm_title">Mostra mascotte CF</string>
+  <string name="dessert_case_settings_cm_summary">Mostra la mascotte CF insieme ai dolci di Android all\'interno del sogno</string>
   <string name="quick_settings_profile_label">Profilo</string>
   <string name="powerwidget_screen_timeout_toast">Timeout impostato a: %1$d %2$s</string>
   <string name="quick_settings_gps">GPS</string>

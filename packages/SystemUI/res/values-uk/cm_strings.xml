@@ -20,7 +20,7 @@
   <string name="accessibility_quick_settings_vibration">Вібро <xliff:g id="state" example="Off">%s</xliff:g>.</string>
   <string name="accessibility_dpad_left">Курсор ліворуч</string>
   <string name="accessibility_dpad_right">Курсор праворуч</string>
-  <string name="dessert_case_settings_cm_title">Значки CyanogenMod</string>
+  <string name="dessert_case_settings_cm_title">Значки CyanFox</string>
   <string name="dessert_case_settings_cm_summary">Показувати Сіда разом із десертами в заставці</string>
   <string name="quick_settings_profile_label">Профіль</string>
   <string name="powerwidget_screen_timeout_toast">Затримка вимк. екрану: %1$d %2$s</string>
